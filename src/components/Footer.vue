@@ -7,10 +7,10 @@
                 </router-link>
                 <div class="footer-nav">
                     <ul>
-                        <li><a href="./goods.html">Ресторанам</a></li>
-                        <li><a href="./goods.html">Курьерам</a></li>
-                        <li><a href="./goods.html">Пресс-центр</a></li>
-                        <li><a href="./goods.html">Контакты</a></li>
+                        <li><router-link to="/rests">Ресторанам</router-link></li>
+                        <li><router-link to="/rests">Курьерам</router-link></li>
+                        <li><router-link to="/rests">Пресс-центр</router-link></li>
+                        <li><router-link to="/rests">Контакты</router-link></li>
                     </ul>
                 </div>
                 <div class="footer-social">
